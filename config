@@ -1,4 +1,6 @@
 # [How I configure Ghostty | Adib Hanna](https://www.youtube.com/watch?v=jWuQxU5bDeU)
+
+font-family = IBM Plex Mono
 font-size = 20
 theme = Monokai Pro
 
@@ -46,3 +48,4 @@ keybind = ctrl+a>l=resize_split:right,10
 
 # other
 copy-on-select = clipboard
+keybind = shift+enter=text:\n
