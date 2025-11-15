@@ -14,8 +14,8 @@ keybind = ctrl+a>n=new_window
 keybind = ctrl+a>c=new_tab
 keybind = ctrl+a>shift+l=next_tab
 keybind = ctrl+a>shift+h=previous_tab
-keybind = ctrl+a>comma=move_tab:-1
-keybind = ctrl+a>period=move_tab:1
+keybind = ctrl+a><=move_tab:-1
+keybind = ctrl+a>>=move_tab:1
 
 # quick tab switch
 keybind = ctrl+a>1=goto_tab:1
